@@ -1,23 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-    ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 20%;
-    background-color: #ff9999;
-    height: 100%; 
-    position: fixed;
-    top: 0;
-    left: 0;
-    overflow: auto; 
-        }
-    li {
-    margin:3%;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="test_style.css">
+
     <title></title>
     </head>
 <body>
