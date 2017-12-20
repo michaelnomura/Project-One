@@ -6,7 +6,7 @@
     <title></title>
     </head>
 <body>
-    <ul>
+<ul>
   <li><a class="active" href="#home">Index</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
