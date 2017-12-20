@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="test_style.css">
+
+    <title></title>
+    </head>
+<body>
+    <ul>
+  <li><a class="active" href="#home">Index</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+    <div style="margin-left:20%;padding:1px 10px;height:1000px;">
